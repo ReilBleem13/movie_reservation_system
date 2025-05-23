@@ -1,0 +1,15 @@
+port: "8080"
+
+db:
+    username: "postgres"
+    host: "localhost"
+    port: "5436"
+    dbname: "movie_db"
+    sslmode: "disable"
+    password: "qwerty"
+jwt: 
+    jwtkey: pqowQIEHQWIHN19231XH!@#*8ADS
+    accessttl: 15
+    refreshttl: 7
+
+
